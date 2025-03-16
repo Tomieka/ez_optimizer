@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" />
+</p>
+
 # Pacman Cache Cleaner and System Optimizer
 
 A comprehensive Qt application to manage and optimize your Arch Linux system.
